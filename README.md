@@ -26,11 +26,11 @@ Le projet est composé de :
 
 | Accuracy                          | Loss                             |
 |----------------------------------|----------------------------------|
-| ![accuracy](https://github.com/Dheker-Laadhibi/SignatureShiha/assets/xxxxx/accuracy.png)  | ![loss](https://github.com/Dheker-Laadhibi/SignatureShiha/assets/yyyyy/loss.png)          |
+| ![accuracy](https://github.com/Dheker-Laadhibi/SignatureShiha/assets/xxxxx/accuracy.JPG)  | ![loss](https://github.com/Dheker-Laadhibi/SignatureShiha/assets/yyyyy/loss.JPG)          |
 
 ### Matrice de confusion (Accuracy: 96.97%)
 
-![confusion_matrix](https://github.com/Dheker-Laadhibi/SignatureShiha/assets/zzzzz/confusion_matrix.png)
+![confusion_matrix](https://github.com/Dheker-Laadhibi/SignatureShiha/assets/zzzzz/confusion_matrix.JPG)
 
 ---
 
